@@ -10,6 +10,6 @@ router.post('/', createHomework);
 router.put('/:id', updateHomework);
 router.delete('/:id', deleteHomework);
 
-//NON-EXISTENT REDIRECT
+
 
 module.exports = router;
